@@ -1,2 +1,3 @@
-# Portfolio
-🚚 Got isekai'd by Truck-Kun? Welcome to my portfolio. A playful Memphis + Neo-Brutalist web experience showcasing my projects, skills, and creative frontend development journey.
+# 🚚 TRUCK-KUN Portfolio
+
+A unique developer portfolio inspired by the legendary Truck-Kun, blending Neo-Brutalism and Memphis Design into a fun, bold, and responsive web experience.
